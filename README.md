@@ -3,7 +3,7 @@ Soy un apasionado Front-End Developer con habilidades en programación y un ojo 
 
 ## Algunas de mis habilidades:
 
-- Desarrollo Frontend: HTML, CSS, JavaScript, React.js, Tailwind, SaSS, Bootstrap. 
+- Desarrollo Frontend: HTML, CSS, JavaScript, Typescript, React.js, Tailwind, SaSS, Bootstrap. 
 - Otros conocimientos: Diseño UX/UI, Testing.
   
 ## Contacto:
