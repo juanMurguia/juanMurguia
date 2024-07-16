@@ -7,6 +7,6 @@ Soy un apasionado Front-End Developer con habilidades en programación y un ojo 
 - Otros conocimientos: Diseño UX/UI, Testing.
   
 ## Contacto:
-- LinkedIn: [https://www.linkedin.com/in/juan-cruz-murguia/]
-- Correo Electrónico: [juancruzmur@gmail.com]
+- LinkedIn: https://www.linkedin.com/in/juan-cruz-murguia/
+- Email: juancruzmur@gmail.com
 
