@@ -3,10 +3,9 @@ Soy un apasionado Front-End Developer con habilidades en programación y un ojo 
 
 ## Algunas de mis habilidades:
 
-- Desarrollo Frontend: HTML, CSS, JavaScript, Typescript, React.js, Tailwind, SaSS, Bootstrap. 
+- Desarrollo Front-end: JavaScript, Typescript, React.js, ChakraUI, Tailwind, Bootstrap. 
 - Otros conocimientos: Diseño UX/UI, Testing.
   
 ## Contacto:
 - LinkedIn: https://www.linkedin.com/in/juan-cruz-murguia/
 - Email: juancruzmur@gmail.com
-
