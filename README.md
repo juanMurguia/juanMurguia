@@ -1,9 +1,11 @@
 # ¡Hola! 👋
 Soy un apasionado Front-End Developer con habilidades en programación y un ojo agudo para el diseño. Me especializo en el desarrollo web, centrándome en la creación de experiencias de usuario excepcionales y funcionales.
 
-## Algunas de mis habilidades:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanMurguia&show_icons=true&theme=radical)
 
-- Desarrollo Front-end: JavaScript, Typescript, React.js, ChakraUI, Tailwind, Bootstrap. 
+## Mis habilidades:
+
+- Desarrollo Front-end: JavaScript, Typescript, React.js, Maui.NET, ChakraUI, Tailwind, Bootstrap. 
 - Otros conocimientos: Diseño UX/UI, Testing.
   
 ## Contacto:
